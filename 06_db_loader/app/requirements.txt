@@ -1,0 +1,8 @@
+asyncio
+aiohttp
+configloader
+faust
+prometheus-client
+PyYAML
+asyncpg
+SQLAlchemy

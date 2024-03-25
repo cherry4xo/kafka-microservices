@@ -1,0 +1,10 @@
+asyncio
+aiohttp
+uvloop
+fastapi
+uvicorn[standard]
+starlette
+starlette-exporter
+configloader
+prometheus-client
+PyYAML

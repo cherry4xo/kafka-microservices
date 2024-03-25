@@ -1,0 +1,12 @@
+asyncio
+aiohttp
+uvloop
+fastapi
+uvicorn
+starlette
+starlette-exporter
+configloader
+prometheus-client
+PyYAML
+asyncpg
+SQLAlchemy
